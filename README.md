@@ -1,2 +1,2 @@
 # Meteor Survivor
-Shoot the aliens before they take over the world!
+Shoot the meteors before they destroy the world!
