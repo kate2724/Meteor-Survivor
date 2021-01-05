@@ -1,5 +1,5 @@
 # Names: Katelyn Breen, Gloriah Omwanda, Tatiana Jimenez-Thompson
-# Course: COMP 12
+# Course: COMP 123
 # Instructor: Getiria Onsongo
 
 # Summary:
